@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: darkblue;
+}
+    
+
+    
+a{
+    background-color: darkslategrey;
+    padding: 5px;
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(255, 255, 255) ;
+}
+
+.grid{
+    display: grid ;
+    grid-template-columns: 300px 300px ;
+    gap: 20px;
+    justify-content: space-around;
+    align-content: 
+}
+
+.item{
+    background-color: rgb(115, 198, 247);
+    padding: 50px;
+    border-radius: 5px;
+    
+}
+
+h2{
+    margin: 0%;
+    color: white;
+}
+

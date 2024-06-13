@@ -1,0 +1,19 @@
+div{
+    border: 2px solid gainsboro;
+    padding: 30px;
+    margin-top: 40px;
+}
+
+span{
+    background-color: gainsboro;
+    padding: 10px;
+     
+}
+
+.relatos{
+    position: relative;
+    top: -30px;
+}
+
+
+    

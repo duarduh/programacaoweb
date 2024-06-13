@@ -1,0 +1,85 @@
+body{
+    font: normal 20px arial;
+   display: grid;
+   justify-items: center;
+   background-color: rgb(255, 255, 255);
+}
+
+.pri{
+    display: flex;
+    gap: 20px;
+    
+}
+
+.pri a{
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+    padding: 8px 12px;
+    text-decoration: none;
+}
+.grid{
+
+
+}
+.grid a{
+    color: rgb(0, 0, 0);
+    background-color: lightsalmon;
+    padding: 10px;
+    border-radius: 5px;
+text-decoration: none;
+}
+h1{
+    color: white;
+}
+.grid p{
+    color: rgb(0, 0, 0);
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 1000px;
+
+
+}
+
+
+
+img{
+max-width: 100%;
+
+}
+#Vantagens p{
+font-size: 64px;
+color: rgb(5, 5, 5);
+font-weight: bold;
+
+}
+
+.qualidades{
+ display: grid;
+ grid-template-columns: 30px auto;
+gap: 20px;
+}
+h3{
+    margin: 0;
+}
+
+.Quadrado{
+     display: grid;
+     justify-items: end;
+     align-items: center;
+     padding: 140px 0px;
+}
+
+.Quadrado h1{
+    color: black;
+}
+
+.rodape{
+    background: chocolate;
+    width: 100%;
+    text-align: center;
+    padding: 40px;
+    box-sizing: border-box;
+}

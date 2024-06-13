@@ -1,0 +1,21 @@
+h1{
+ background-color: deepskyblue;
+ color: white;
+ padding: 15px;
+ border-radius: 8px;
+ margin: 0;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tata{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+h1:hover{
+    color: darkblue;
+    cursor: pointer;
+}
+

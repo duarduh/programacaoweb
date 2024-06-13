@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+
+}
+
+h1{
+    text-align: center;
+}
+.quadidi{
+   
+    display: grid;
+    grid-template-columns: 500px 500px  ;
+    gap: 20px;
+    justify-content: center;
+    width: 1555px;
+  
+}
+.quadroda{
+    padding: 5px;
+    background-color: floralwhite;
+    border: 1px solid gainsboro;
+    display: grid;
+    border-radius: 4px;
+    text-align: end;
+}
+a{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: mediumpurple;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+
+}

@@ -1,0 +1,23 @@
+*{
+    font:  normal 20pt arial;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.pa{
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+
+.pa h2{
+    padding: 15px;
+    background: #e7e7e7;
+}
+
+
+

@@ -1,0 +1,61 @@
+body{
+font-family: sans-serif;
+background-image: url(fundo.jpg);
+background-size: 100%;
+}
+
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.p1{
+    text-align: center;
+}
+
+ .p1 h1{
+    margin-bottom:30px ;
+    color: white;
+    margin-top: 150px;
+    font-size: 120px;
+}
+
+.p1 input{
+    box-shadow: 3px 3px  rgba(128, 128, 128, 0.199);
+    border: 0px ;
+    width: 600px;
+    border-radius: 30px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.op{
+    margin: 40px 32%;
+    display: flex;
+    gap: 10%;
+}
+
+
+.p2{
+    text-align: center;
+}
+  .p2  p{
+color: black;
+font-size: 25px;
+}
+
+ .p2 img{
+    transition: 0.2s;
+
+    border-radius: 15px;
+    background: rgba(153, 153, 153, 0.658);
+    padding: 10px;
+    width: 40px;
+
+}
+
+.op a:hover >  .p2 img{
+    transition: 0.2s;
+    background: rgba(128, 128, 128, 0.692);
+}

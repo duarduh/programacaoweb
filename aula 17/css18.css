@@ -1,0 +1,20 @@
+h1{
+    border: 3px solid rgb(255, 0, 0);
+    height: 500px;
+
+}
+
+.bulacha{
+    padding: 10px 30px;
+    background-color:black;
+    display: inline-block;
+    position: fixed;
+    bottom: 40px;
+    left: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
